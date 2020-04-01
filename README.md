@@ -6,6 +6,7 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR
 * 本项目非源代码，请点击下方链接
 * 本人非此代码开发者，请不要误会
 * 此代码是我复制他人的
+* 以下均为开发者原文
 
 # 置顶 #
 * 本项目是建立在[原教程](https://blog.432100.xyz/index.php/archives/50/)可以正确调用api的**假设**上的，核心是paran/黑幕大佬的py脚本。
