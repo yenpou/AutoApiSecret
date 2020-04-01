@@ -1,5 +1,10 @@
 # AutoApiSecret-加密版
 
+# 请注意 #
+* 本项目非源代码，请点击下方链接
+* 本人非此代码开发者，请不要误会
+* 此代码是我复制他人的
+
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR
 
 # 置顶 #
