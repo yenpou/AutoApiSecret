@@ -1,6 +1,3 @@
-# 请注意 #
-* 以下为开发者原文
-
 # AutoApiSecret-加密版
 
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR
